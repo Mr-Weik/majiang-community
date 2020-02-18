@@ -1,4 +1,4 @@
-package cn.deepcoding.controller;
+package majiang.community.controller;
 
 
 import org.springframework.stereotype.Controller;
